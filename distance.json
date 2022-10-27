@@ -1,0 +1,373 @@
+{
+    "points": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "name",
+                "geocode": {
+                    "id": 17214179,
+                    "typ": null,
+                    "name": "Alberic",
+                    "lat": 39.1164369,
+                    "lng": -0.5201838,
+                    "visit": 0,
+                    "lang": "",
+                    "formatted_address": null,
+                    "country": "ES",
+                    "moved": null,
+                    "checked": null,
+                    "clean": null,
+                    "tz": "Europe/Madrid",
+                    "regions": [
+                        {
+                            "id": 1311341,
+                            "name": "España",
+                            "int": "Spain",
+                            "name_en": "Spain",
+                            "level": 2
+                        },
+                        {
+                            "id": 349043,
+                            "name": "Comunitat Valenciana",
+                            "int": "Valencian Community",
+                            "name_en": "Valencian Community",
+                            "level": 4
+                        },
+                        {
+                            "id": 349000,
+                            "name": "Valencia/València",
+                            "int": "Valencia",
+                            "name_en": "Valencia",
+                            "level": 6
+                        },
+                        {
+                            "id": 1691755,
+                            "name": "Ribera Alta",
+                            "int": "Ribera Alta",
+                            "name_en": null,
+                            "level": 7
+                        },
+                        {
+                            "id": 345246,
+                            "name": "Alberic",
+                            "int": "Alberic",
+                            "name_en": null,
+                            "level": 8
+                        }
+                    ]
+                },
+                "airports": [
+                    {
+                        "name": "Valencia Airport",
+                        "icao": "LEVC",
+                        "iata": "VLC",
+                        "lat": 39.4893,
+                        "lng": -0.481625,
+                        "city": "Valencia",
+                        "country": "Spain",
+                        "distance": 41.60607422833358
+                    },
+                    {
+                        "name": "Valencia Airport",
+                        "icao": "LEVC",
+                        "iata": "VLC",
+                        "lat": 39.4893,
+                        "lng": -0.481625,
+                        "city": "Valencia",
+                        "country": "Spain",
+                        "distance": 41.60607422833358
+                    },
+                    {
+                        "name": "Alicante International Airport",
+                        "icao": "LEAL",
+                        "iata": "ALC",
+                        "lat": 38.2822,
+                        "lng": -0.558156,
+                        "city": "Alicante",
+                        "country": "Spain",
+                        "distance": 92.85055750648333
+                    }
+                ],
+                "stats": {
+                    "antipodia": [
+                        179.4798162,
+                        -39.1164369
+                    ],
+                    "equator": {
+                        "distance": 4350.914752923117,
+                        "bearing": "S"
+                    },
+                    "northpole": 5659.7702377407595,
+                    "southpole": 14362.71199781731
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5201838,
+                    39.1164369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "name",
+                "geocode": {
+                    "id": 7100306,
+                    "typ": null,
+                    "name": "Alzira",
+                    "lat": 39.15,
+                    "lng": -0.43333,
+                    "visit": 0,
+                    "lang": "nl",
+                    "formatted_address": null,
+                    "country": "ES",
+                    "moved": null,
+                    "checked": null,
+                    "clean": null,
+                    "tz": "Europe/Madrid",
+                    "regions": [
+                        {
+                            "id": 1311341,
+                            "name": "España",
+                            "int": "Spain",
+                            "name_en": "Spain",
+                            "level": 2
+                        },
+                        {
+                            "id": 349043,
+                            "name": "Comunitat Valenciana",
+                            "int": "Valencian Community",
+                            "name_en": "Valencian Community",
+                            "level": 4
+                        },
+                        {
+                            "id": 349000,
+                            "name": "Valencia/València",
+                            "int": "Valencia",
+                            "name_en": "Valencia",
+                            "level": 6
+                        },
+                        {
+                            "id": 1691755,
+                            "name": "Ribera Alta",
+                            "int": "Ribera Alta",
+                            "name_en": null,
+                            "level": 7
+                        },
+                        {
+                            "id": 345244,
+                            "name": "Alzira",
+                            "int": "Alzira",
+                            "name_en": null,
+                            "level": 8
+                        }
+                    ]
+                },
+                "airports": [
+                    {
+                        "name": "Valencia Airport",
+                        "icao": "LEVC",
+                        "iata": "VLC",
+                        "lat": 39.4893,
+                        "lng": -0.481625,
+                        "city": "Valencia",
+                        "country": "Spain",
+                        "distance": 37.96839858911236
+                    },
+                    {
+                        "name": "Valencia Airport",
+                        "icao": "LEVC",
+                        "iata": "VLC",
+                        "lat": 39.4893,
+                        "lng": -0.481625,
+                        "city": "Valencia",
+                        "country": "Spain",
+                        "distance": 37.96839858911236
+                    },
+                    {
+                        "name": "Alicante International Airport",
+                        "icao": "LEAL",
+                        "iata": "ALC",
+                        "lat": 38.2822,
+                        "lng": -0.558156,
+                        "city": "Alicante",
+                        "country": "Spain",
+                        "distance": 97.13124423432338
+                    }
+                ],
+                "stats": {
+                    "antipodia": [
+                        179.56667,
+                        -39.15
+                    ],
+                    "equator": {
+                        "distance": 4354.647970938786,
+                        "bearing": "S"
+                    },
+                    "northpole": 5656.037019725091,
+                    "southpole": 14366.445229570616
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.43333,
+                    39.15
+                ]
+            }
+        }
+    ],
+    "steps": [
+        {
+            "start": [
+                -0.5201838,
+                39.1164369
+            ],
+            "end": [
+                -0.43333,
+                39.15
+            ],
+            "distance": {
+                "haversine": 8.372073090448463,
+                "greatCircle": 8.369457556552339,
+                "vincenty": 8.383288,
+                "radians": 0.001313678501561033,
+                "dagrees": 0.07526823377651731,
+                "flight": [
+                    {
+                        "start": "VLC",
+                        "dest": "ALC",
+                        "distance": 134.42891816298393,
+                        "time": "0h 39min"
+                    },
+                    {
+                        "start": "VLC",
+                        "dest": "ALC",
+                        "distance": 134.42891816298393,
+                        "time": "0h 39min"
+                    },
+                    {
+                        "start": "ALC",
+                        "dest": "VLC",
+                        "distance": 134.42891816298393,
+                        "time": "0h 39min"
+                    },
+                    {
+                        "start": "ALC",
+                        "dest": "VLC",
+                        "distance": 134.42891816298393,
+                        "time": "0h 39min"
+                    }
+                ],
+                "car": {
+                    "distance": 10368.2,
+                    "duration": 880.2
+                }
+            },
+            "midpoint": {
+                "type": "Feature",
+                "properties": {
+                    "type": "latlng",
+                    "geocode": {},
+                    "tz": "Europe/Madrid",
+                    "regions": [
+                        {
+                            "id": 1311341,
+                            "name": "España",
+                            "int": "Spain",
+                            "name_en": "Spain",
+                            "level": 2
+                        },
+                        {
+                            "id": 349043,
+                            "name": "Comunitat Valenciana",
+                            "int": "Valencian Community",
+                            "name_en": "Valencian Community",
+                            "level": 4
+                        },
+                        {
+                            "id": 349000,
+                            "name": "Valencia/València",
+                            "int": "Valencia",
+                            "name_en": "Valencia",
+                            "level": 6
+                        },
+                        {
+                            "id": 1691755,
+                            "name": "Ribera Alta",
+                            "int": "Ribera Alta",
+                            "name_en": null,
+                            "level": 7
+                        },
+                        {
+                            "id": 345244,
+                            "name": "Alzira",
+                            "int": "Alzira",
+                            "name_en": null,
+                            "level": 8
+                        }
+                    ],
+                    "airports": [
+                        {
+                            "name": "Valencia Airport",
+                            "icao": "LEVC",
+                            "iata": "VLC",
+                            "lat": 39.4893,
+                            "lng": -0.481625,
+                            "city": "Valencia",
+                            "country": "Spain",
+                            "distance": 39.60820158420204
+                        },
+                        {
+                            "name": "Valencia Airport",
+                            "icao": "LEVC",
+                            "iata": "VLC",
+                            "lat": 39.4893,
+                            "lng": -0.481625,
+                            "city": "Valencia",
+                            "country": "Spain",
+                            "distance": 39.60820158420204
+                        },
+                        {
+                            "name": "Alicante International Airport",
+                            "icao": "LEAL",
+                            "iata": "ALC",
+                            "lat": 38.2822,
+                            "lng": -0.558156,
+                            "city": "Alicante",
+                            "country": "Spain",
+                            "distance": 94.92276003409283
+                        }
+                    ],
+                    "stats": {
+                        "antipodia": [
+                            179.52323275093212,
+                            -39.13322650682299
+                        ],
+                        "equator": {
+                            "distance": 4352.78225809003,
+                            "bearing": "S"
+                        },
+                        "northpole": 5657.902732573847,
+                        "southpole": 14364.57951017093
+                    }
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -0.4767672490678689,
+                        39.13322650682299
+                    ]
+                }
+            },
+            "bearing": {
+                "exact": "ENE",
+                "rough": "E",
+                "bearing": 63.4908180036893
+            },
+            "time": 0
+        }
+    ]
+}
